@@ -1,5 +1,5 @@
 ### Hi, I’m Aryan 😁 
-Aspiring AI/ML practitioner with a strong quantitative foundation, actively building hands-on experience through projects and continuous learning.
+An aspiring AI/ML practitioner with a strong quantitative foundation, actively building hands-on experience through projects and continuous learning..
 
 ### 📚 Books Studied
 - **Ensemble Methods for Machine Learning**
@@ -8,3 +8,6 @@ Aspiring AI/ML practitioner with a strong quantitative foundation, actively buil
 - **Deep Learning Foundations and Concepts**
 - **Deep Learning with Python** (2nd Edition)
 - **Grokking Deep Learning**
+
+### 📖 Currently Studying
+- **Think Stats** (2nd Edition)
