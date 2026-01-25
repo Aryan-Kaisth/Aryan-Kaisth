@@ -11,3 +11,4 @@ An aspiring AI/ML practitioner with a strong quantitative foundation, actively b
 
 ### 📖 Currently Studying
 - **Think Stats** (2nd Edition)
+- **Pytorch From Basics**
