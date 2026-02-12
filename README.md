@@ -11,4 +11,4 @@ An aspiring AI/ML practitioner with a strong quantitative foundation, actively b
 - **Think Stats** (2nd Edition)
 
 ### 📖 Currently Studying
-- **Time Series Analysis**
+- **Time Series Forecasting in Python by Marco Peixeiro**
