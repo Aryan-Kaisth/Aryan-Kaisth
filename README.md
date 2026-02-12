@@ -8,7 +8,7 @@ An aspiring AI/ML practitioner with a strong quantitative foundation, actively b
 - **Deep Learning Foundations and Concepts**
 - **Deep Learning with Python** (2nd Edition)
 - **Grokking Deep Learning**
+- **Think Stats** (2nd Edition)
 
 ### 📖 Currently Studying
-- **Think Stats** (2nd Edition)
-- **Pytorch Intermediate**
+- **Time Series Analysis**
