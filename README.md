@@ -12,3 +12,4 @@ Data Scientist with a strong quantitative foundation, actively building hands-on
 
 ### 📖 Currently Studying
 - **Time Series Forecasting in Python by Marco Peixeiro (60% completed)**
+- **The Kaggle Book 2nd Edition (40% completed)**
