@@ -10,7 +10,8 @@ Data Scientist with a strong quantitative foundation, actively building hands-on
 - **Grokking Deep Learning**
 - **Think Stats (2nd Edition)**
 - **Time Series Forecasting in Python (Upto Statistical Time Series)**
+- **Approaching (Almost) Any Machine Learning Problem**
 
 ### 📖 Currently Studying
 - **The Kaggle Book (2nd Edition): 40%**
-- **Approaching (Almost) Any Machine Learning Problem: 30%**
+
