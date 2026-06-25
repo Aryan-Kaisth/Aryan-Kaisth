@@ -7,6 +7,3 @@ Data Scientist with a strong quantitative foundation, actively building hands-on
 ### Competitions 🏆
 1. Google Playground Series S6E5 — Achieved a **Top 4% ranking** (168th out of 4,315 Teams). Published a detailed solution write-up covering model diversity, feature engineering, and a systematic experimentation approach: [Kaggle Solution Write-up](https://www.kaggle.com/competitions/playground-series-s6e4/writeups/top-4-solution-model-diversity-fe-and-systematic?utm_source=chatgpt.com)
 2. Google Playground Series S6E3 — Achieved a Top 25% ranking.
-
-### Current Project I Am Working On 👨‍🔬
-AeroTrack-AD: Flight Trajectory Anomaly Detection using Automatic Dependent Surveillance Broadcast Aircraft Telemetry: https://github.com/Aryan-Kaisth/AeroTrack-AD
